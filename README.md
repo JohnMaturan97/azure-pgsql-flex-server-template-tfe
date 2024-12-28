@@ -1,0 +1,1 @@
+# azure-pgsql-flex-server-template-tfe
